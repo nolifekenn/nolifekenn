@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm currently an Information Systems Student 📖
-### I'm currently learning Python and Java 🤞
-### I'm trying to learn data analysis 🥹
+### I'm currently learning Wed Development and Data Analysis
 
 <!--
 **nolifekenn/nolifekenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
