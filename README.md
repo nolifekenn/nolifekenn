@@ -42,7 +42,7 @@ I am a Magna Cum Laude Information Systems graduate at the Technological Univers
 ### 🚀 Featured Projects
 
 * **[Bike Buyer Demographic Analysis (Excel Project)](#)**
-  * *Data Analysis:* Cleaned and transformed a 1,000+ row raw dataset to resolve inconsistencies across 8 demographic fields[cite: 2]. Built Pivot Table aggregations to identify top buyer profiles and delivered a dynamic, self-service visualization dashboard.
+  * *Data Analysis:* Cleaned and transformed a 1,000+ row raw dataset to resolve inconsistencies across 8 demographic fields. Built Pivot Table aggregations to identify top buyer profiles and delivered a dynamic, self-service visualization dashboard.
 * **[eTire Management System (Capstone Project)](https://etire-mis.vercel.app/login)**
   * *Project Management & Dev:* Managed the complete SDLC from requirements gathering to final UAT, translating business needs into a WBS and Project Charter to keep scope creep to zero. Developed the platform utilizing Next.js, Supabase, and TypeScript.
 * **[Odoo ERP Implementations](#)**
